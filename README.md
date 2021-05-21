@@ -1,2 +1,2 @@
-# RDE12-erica-cristina-moro
- RDE12 - Agrupamento de elementos e Seletores personalizados
+# RDE12-ERICA-CRISTINA-MORO
+ RDE12- Agrupamentos de elementos e seletores personalizados 
